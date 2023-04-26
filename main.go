@@ -1,4 +1,6 @@
-/*Documentacion del codigo*/
+/*
+Documentacion del codigo
+*/
 
 package main
 
